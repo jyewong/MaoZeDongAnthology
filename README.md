@@ -1,6 +1,6 @@
 # 毛泽东选集
 
-静火版本的《毛泽东选集》，共七卷。
+五卷官方版本和两卷静火版本的《毛泽东选集》，共七卷。
 
 部分内容由 https://github.com/lindaye6/Selected-Works-of-Mao-Zedong-JingHuo-version 整理
 
